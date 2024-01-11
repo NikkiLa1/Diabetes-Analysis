@@ -1,6 +1,6 @@
-<h1>JDiabetes Analysis</h1>
+<h1>Diabetes Analysis</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Project Presentation](https://youtu.be/XEVj-lXS-Rs?si=0EJu-phSRat4Yccm)
 
 <h2>Description</h2>
 Diabetes is a prevalent health concern and predicting its risk based on various health-related features can aid in early detection. This project utilizes compares and contrasts various machine learning algorithms to identify which algorithm has the highest accuracy in identify diabetes diagnosis. 
